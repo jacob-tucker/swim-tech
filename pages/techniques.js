@@ -6,13 +6,13 @@ export default function Techniques() {
         <p className="section-header">Introduction</p>
         <p>
           In this section, we will talk about all the techniques behind the sport of swimming.
-          This will include the 4 main strokes used at a competetive level.
+          This will include the 4 main strokes used at a competitive level.
         </p>
         <img src="/strokes.jpg" alt="strokes of swimming picture" />
         <p className="section-header">What are the swimming techniques?</p>
         <p>
           In swimming, there are 4 different official techniques that are known both for recreational and
-          (primarily) for competetive purposes. The 4 consist of Freestyle, Backstroke, Breaststroke,
+          (primarily) for competitive purposes. The 4 consist of Freestyle, Backstroke, Breaststroke,
           and Butterfly. Each of these is very unique, and being good at one does not imply being good
           at the others. In addition, each of them is very different in how they race, each of which
           will be described below.
@@ -21,11 +21,11 @@ export default function Techniques() {
         <p>
           Freestyle is by far the most popular stroke in swimming, and the fastest. When you learn
           to swim, the first stroke you learn to do is freestyle because of its simplicity. Because
-          of this, it is also the most competetive stroke and SUPER fun to watch because the best swimmers
+          of this, it is also the most competitive stroke and SUPER fun to watch because the best swimmers
           in the world fly through the water at incredible speeds.
         </p>
         <p>
-          Because of its popularity and high competetiveness, it also consists of the widest variety
+          Because of its popularity and high competitiveness, it also consists of the widest variety
           of events. Swimmers compete in just 1 lap, 2 laps, 4 laps, 8 laps, and many more up to even
           25 laps. The reason is because with freestyle, you can more easily pace the effort you
           put in, and go longer distances. And of course because there are a lot of people who perform
@@ -47,7 +47,7 @@ export default function Techniques() {
         <p>
           Backstroke is also interesting because it's the one stroke where you can't see the wall when you
           swim up to it in order to turn around and swim back. With the other 3, you can simply touch the wall 
-          and turn around, but with backstroke, competetive swimmers have to have an exact count of pulls
+          and turn around, but with backstroke, competitive swimmers have to have an exact count of pulls
           to take before flipping over and pushing off the wall again.
         </p>
         <p>

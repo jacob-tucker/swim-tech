@@ -16,12 +16,12 @@ export default function Home() {
         <h3>Swimming Techniques</h3>
         <p>Explore the different techniques behind the sport, including the 4 strokes.</p>
       </article>
-      <article onClick={() => router.push('/technology')}>
+      <article onClick={() => router.push('/technologies')}>
         <h3>Swimming Technology</h3>
-        <p>Learn about all the different pieces of technology both at a casual and competetive level.</p>
+        <p>Learn about all the different pieces of technology both at a casual and competitive level.</p>
       </article>
-      <article onClick={() => router.push('/professional')}>
-        <h3>Pro Swimming</h3>
+      <article onClick={() => router.push('/competitive')}>
+        <h3>Competitive Swimming</h3>
         <p>Delve into the professional side of swimming, and some of the popular competitors known around the word.</p>
       </article>
     </div>
