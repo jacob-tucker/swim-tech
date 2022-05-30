@@ -14,7 +14,7 @@ export default function Intro() {
           the propulsion of the body through water by combined arm and leg motions and the natural
           flotation of the body. Swimming as an exercise is popular as an all-around body developer
           and is particularly useful in therapy and as exercise for physically handicapped persons.
-          It is also taught for lifesaving purposes." (<a href="https://www.britannica.com/sports/swimming-sport" target="_blank">source</a>)</i>
+          It is also taught for lifesaving purposes." (<a href="https://www.britannica.com/sports/swimming-sport" target="_blank" rel="noreferrer">source</a>)</i>
         </p>
         <p>
           Studies have shown that the act of swimming may have been introduced as early as 2500 BCE
@@ -43,7 +43,7 @@ export default function Intro() {
           Danielle Obe, a founding member of the Black swimming association, mentions even the 
           technologies behind swimming (like caps) are designed for caucasian swimmers. Swim caps 
           are not designed to fit the Afro hairstyle, which makes it very difficult for Black swimmers 
-          to take advantage of the technology (<a href="https://www.theguardian.com/sport/2021/apr/04/i-was-the-only-black-kid-in-the-pool-why-swimming-is-so-white" target="_blank">Walker</a>).
+          to take advantage of the technology (<a href="https://www.theguardian.com/sport/2021/apr/04/i-was-the-only-black-kid-in-the-pool-why-swimming-is-so-white" target="_blank" rel="noreferrer">Walker</a>).
         </p>
         <p>We will talk a lot more about race and technology in later lessons.</p>
       </article>

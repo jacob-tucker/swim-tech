@@ -101,7 +101,7 @@ export default function Technologies() {
           you swim.
         </p>
         <p>
-          As mentioned on their <a href="https://simplifaster.com/articles/swim-faster-smartpaddle-sensor/" target="_blank">website</a>, "SmartPaddle is a wearable sensor that measures the force, speed, and orientation of your 
+          As mentioned on their <a href="https://simplifaster.com/articles/swim-faster-smartpaddle-sensor/" target="_blank" rel="noreferrer">website</a>, "SmartPaddle is a wearable sensor that measures the force, speed, and orientation of your 
           swimming strokes. It shows whether the swimmer can apply the right amount of 
           force in the right direction at the right time."
         </p>
