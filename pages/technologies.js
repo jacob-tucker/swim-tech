@@ -86,6 +86,35 @@ export default function Technologies() {
           rises to the surface and swims on top of the water. This means you can focus on the actual
           technique of your upper body without worrying about all the pressure put on your muscles.
         </p>
+        <p className="section-header">Swim Wearables</p>
+        <p>
+          There are quite a few technologies meant to help improve your stroke, but they are a bit 
+          more complex than a simple kickboard or flippers. The reason is because they require equipping
+          something to your body to get a more deep understanding of how you're swimming.
+        </p>
+        <img src="/swimpaddle.jpg" width="400" alt="swim paddle technology" />
+        <p>
+          <b>SMARTPADDLE</b>
+        </p>
+        <p>
+          "SmartPaddle" is one such sports wearable where you equip a sensor to your fingers while 
+          you swim.
+        </p>
+        <p>
+          As mentioned on their <a href="https://simplifaster.com/articles/swim-faster-smartpaddle-sensor/" target="_blank">website</a>, "SmartPaddle is a wearable sensor that measures the force, speed, and orientation of your 
+          swimming strokes. It shows whether the swimmer can apply the right amount of 
+          force in the right direction at the right time."
+        </p>
+        <p>
+          More simply, the technology connects and sends information about the swimmer to a mobile 
+          device. That way, the swimmer doesn't have to worry about the device while they swim,
+          but can look at the information after.
+        </p>
+        <p>
+          One interesting part of sports wearables with swimming if you have to make sure not to impact 
+          the hydrodynamics of the swimmer too heavily. Luckily, the SmartPaddle doesn't effect a swimmer's
+          technique enough to make a big difference on the time.
+        </p>
         <p className="section-header">Competitive Technologies</p>
         <p>
           In the next lesson, we will talk about competitive swimming, and the 

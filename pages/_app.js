@@ -21,11 +21,6 @@ function MyApp({ Component, pageProps }) {
               <a>Home</a>
             </Link>
           </li>
-          <li>
-            <Link href="/about">
-              <a>About</a>
-            </Link>
-          </li>
         </ul>
       </nav>
       <Component {...pageProps} />
